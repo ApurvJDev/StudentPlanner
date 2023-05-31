@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666890307800",
+    "project_id": "student-planner-d9543",
+    "storage_bucket": "student-planner-d9543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666890307800:android:d0ec02383bc2a7eb8cafad",
+        "android_client_info": {
+          "package_name": "com.example.studentplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666890307800-rcronkil3ue34d1idmge6f8t5vd9dv2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentplanner",
+            "certificate_hash": "d9c38dac7004d09c8d00bde28ff6dbdaa3a1ea73"
+          }
+        },
+        {
+          "client_id": "666890307800-ebpvu80k6eibkrvbpo64g52s263ps655.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVhzxlft1_MRdmIDFbMy68ETpwk7zcPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666890307800-ebpvu80k6eibkrvbpo64g52s263ps655.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
